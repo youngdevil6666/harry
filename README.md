@@ -1,4 +1,4 @@
-#ghabeliat haye man
+#Ghabeliat_haye_man
 ##Gamer
 *iam dota2 player*
 ##sport
@@ -7,5 +7,5 @@
 **i can make weird sounds with my mouth**
 ####cooke
 *i can cooke delicious foods*
-##fast typing
+##fast_typing
 **i can type 48 word in 1 minute**
